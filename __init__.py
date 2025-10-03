@@ -1,5 +1,2 @@
+from .qaz008fear import *
 
-
-
-from .qaz008fear import sumador
-from .qaz008fear import restador
